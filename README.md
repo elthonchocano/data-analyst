@@ -1,5 +1,5 @@
 ### data-analyst-ucw
-
+sidebar_label: Navigation
 # Project Description
 UCW Finance Operation team wants to know the patterns in delayed payments that affect cashflow. We go throught Payment Records, Invoice Details and Customer Profiles to analyze payment behavior and identify causes of payment delays impacting cash flow.
 ## Metodology
