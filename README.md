@@ -7,11 +7,11 @@ This project was developed using three steps: Analysis, Design and Implementatio
 ### 1. Analysis
 In this step we review the root cause of this problem where we could identified some causes related to our main problem:
 
-![fishbone](/images/analysis/fishbone.png "Fishbone diagram")
+![fishbone](./images/analysis/fishbone.png "Fishbone diagram")
 
 After that, we reviewed the datasets that is close related to our problem: 
 
-![dataset-description](/images/analysis/dataset-description.png "Dataset Description")
+![dataset-description](./images/analysis/dataset-description.png "Dataset Description")
 
 Through this analysis, we aim to summarize key characteristics of customer purchases, identify trends, and generate insights that can inform marketing strategies and inventory management.
 Dataset: The dataset includes transactional data from UCW Finance Operation Team over the past years, containing the following key features:
