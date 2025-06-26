@@ -84,9 +84,44 @@ And these were the results after running the profiling and cleaning jobs:
 
 **Invoice Details:**
 
+We also create a profiling job to load and analyze the invoice detail dataset:
+
+![inv-dtl-profiling-job](./images/implementation/cleaning/databrew-invoice-details-job1.png "Invoice Details - Profiling Job")
+
+And these were the results after running the profiling and cleaning jobs:
+
+![databrew-cleaning-inv-dtl-output1](./images/implementation/cleaning/databrew-invoice-details-output1.png "Invoice Details - Output 1")
+
+![databrew-cleaning-inv-dtl-output2](./images/implementation/cleaning/databrew-invoice-details-output2.png "Invoice Details - Output 2")
+
+![databrew-cleaning-inv-dtl-output3](./images/implementation/cleaning/databrew-invoice-details-output3.png "Invoice Details - Output 3")
+
+![databrew-cleaning-inv-dtl-output4](./images/implementation/cleaning/databrew-invoice-details-output4.png "Invoice Details - Output 4")
+
 **Customer Profiles:**
 
+We also create a profiling job to load and analyze the customer profiles dataset:
+
+![cus-prf-profiling-job](./images/implementation/cleaning/databrew-customer-profiles-job1.png "Customer Profiles - Profiling Job")
+
+And these were the results after running the profiling and cleaning jobs:
+
+![databrew-cleaning-cus-prf-output1](./images/implementation/cleaning/databrew-customer-profiles-output1.png "Customer Profiles - Output 1")
+
+![databrew-cleaning-cus-prf-output2](./images/implementation/cleaning/databrew-customer-profiles-output2.png "Customer Profiles - Output 2")
+
+![databrew-cleaning-cus-prf-output3](./images/implementation/cleaning/databrew-customer-profiles-output3.png "Customer Profiles - Output 3")
 
 ## **Tools and Technologies**
+- **Microsoft Excel** – For planning and organizing the data lake
+- **Draw.io** – To create diagrams
+- **Fishbone Diagram** – To find root causes of the forecasting issues
+- **Amazon S3** – for organizing and storing cleaned datasets
+- **AWS Glue** – Data catalog and schema registry
+- **AWS Glue DataBrew** – Visual ETL tool for transformation
+- **Amazon Athena** – SQL queries on transformed data
+- **Amazon CloudWatch** – Billing alerts and monitoring
+- **AWS Billing Dashboard** – for monitoring and managing costs
+
     
 ## **Cloud Foundation**
